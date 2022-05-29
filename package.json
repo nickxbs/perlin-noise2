@@ -1,5 +1,5 @@
 {
-  "name": "perlin-noise2",
+  "name": "@nickxbs/perlinnoise2",
   "version": "0.0.1",
   "description": "simple perlin noise generator",
   "main": "index.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickxbs/perlin-noise2.git"
+    "url": "git+https://github.com/nickxbs/perlinnoise2.git"
   },
   "author": "Nicola Febbrari <febbrari@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nickxbs/perlin-noise2/issues"
+    "url": "https://github.com/nickxbs/perlinnoise2/issues"
   },
-  "homepage": "https://github.com/nickxbs/perlin-noise2#readme"
+  "homepage": "https://github.com/nickxbs/perlinnoise2#readme"
 }
